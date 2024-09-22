@@ -45,6 +45,18 @@ p {
   font-size: 36px;
   font-family: rye;
 }
+.rv {
+  display: inline-block;
+  border: 1px solid grey;
+  margin: 5px;
+}
+.rv .description {
+  padding: 10px;
+  text-align: center;
+  color:burlywood;
+  font-size: 36px;
+  font-family: rye;
+}    
 .description {
   background-color: teal;
 }
