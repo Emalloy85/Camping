@@ -1,0 +1,51 @@
+body {
+  background-image: url("https://assets.weforum.org/article/image/0ZUBmNNVLRCfn3NdU55nQ00UF64m2ObtcDS0grx02fA.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1 {
+  color:burlywood;
+  font-size: 72px;
+  font-family: Rye;
+}
+p {
+  color:darkgoldenrod;
+  background-color: floralwhite;
+  font-size: 36px;
+  font-family: rye;
+  display: inline-block;
+  vertical-align: middle;
+}
+.CompanyBanner {
+  background-color: teal;
+}
+.products {
+  display: inline-block;
+  border: 1px solid grey;
+  margin: 5px;
+}
+.products .description {
+  padding: 10px;
+  text-align: center;
+  color:burlywood;
+  font-size: 36px;
+  font-family: rye;
+}
+.activities {
+  display: inline-block;
+  border: 1px solid grey;
+  margin: 5px;
+}
+.activities .description {
+  padding: 10px;
+  text-align: center;
+  color:burlywood;
+  font-size: 36px;
+  font-family: rye;
+}
+.description {
+  background-color: teal;
+}
+
